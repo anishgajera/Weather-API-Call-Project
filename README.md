@@ -1,1 +1,2 @@
 # Weather - API Call with IRC Chatbot
+This repository contains my Weather API call project. This program makes an API call to a weather server for a specific zip code which will be entered by the user to a ChatBot. Once entered, the program will recieve a JSON response from the call and parse the JSON string to obtain current weather data for the specified zip code.
